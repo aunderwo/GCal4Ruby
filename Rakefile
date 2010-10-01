@@ -2,7 +2,7 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gemspec|
 
-    gemspec.name = "gcal4ruby-aunderwo"
+    gemspec.name = "aunderwo-gcal4ruby"
     gemspec.summary = %Q{A full featured wrapper for interacting with the Google Calendar API}
     gemspec.email = ["mike@seabourneconsulting.com","email2ants@gmail.com"]
     gemspec.homepage = "http://github.com/aunderwo/GCal4Ruby"
